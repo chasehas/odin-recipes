@@ -1,0 +1,25 @@
+.title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: aqua;
+}
+.links{
+    font-weight: 900;
+}
+.recipe{
+    font-style: italic;
+}
+.recipe-title{
+    font-weight:bold;
+}
+.recipe-image{
+    width:200px;
+    height: auto;
+}
+.recipe-subheader{
+    background-color: black;
+    color: white;
+}
+li{
+    list-style-type: square;
+}
