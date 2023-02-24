@@ -1,3 +1,3 @@
 # odin-recipes
-Odin HTML Project
+My implementation of the Odin HTML Project
 From https://www.theodinproject.com/lessons/foundations-recipes
